@@ -1,5 +1,5 @@
 {
-  "name": "react-bootstrap-4",
+  "name": "@hivebeat/react-bootstrap-4",
   "version": "0.29.1",
   "description": "Temporary fork of react-bootstrap for Bootstrap 4",
   "repository": {
